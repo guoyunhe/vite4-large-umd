@@ -26,4 +26,4 @@ jobs:
       run: |
         npm install
         npm run build
-        node dist/vite4-large-umd.js
+        node dist/vite4-umd.umd.js
